@@ -1,0 +1,52 @@
+.Web{
+    background-color: rgba(24, 0, 89, .51);
+    flex: 1;
+    width: 49vw;
+    overflow: hidden;
+    transition: all 5s;
+}
+
+.mebig{
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    position: relative;
+    
+}
+
+.browser{
+    position: relative;
+    width: 75%;
+    right: -15vh;
+    bottom: -40%;
+    z-index: -1;
+}
+
+.tablet{
+    position: relative;
+    top: -70%;
+    left: -50%;
+    width: 90%;
+    z-index: -2;
+
+
+}
+
+.phone{
+    position: relative;
+    top: -130%;
+    right: -50%;
+    width: 50%;
+    z-index: -2;
+}
+
+.Web .cover{
+    z-index: 1000;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+    top: 75%;
+    font-size: 2rem;
+    right: 5%;
+}
+
