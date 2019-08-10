@@ -1,3 +1,14 @@
+# Custom Resume/Portfolio Site Design
+Adobe XD Design: https://xd.adobe.com/spec/976d9b18-ee52-4388-624e-0df753ad1109-e15c/grid
+
+[Landing Page](Wireframes/Landing Page.png)
+
+- [ ] **Create Initial Landing Page (In Progress)**
+- [ ] Create and Format Art Portofolio section
+- [ ] Format Web Portfolio Section
+- [ ] Add Web and Art Projects
+- [ ] Deploy on Netlify
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
